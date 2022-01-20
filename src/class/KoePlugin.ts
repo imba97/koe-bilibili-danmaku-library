@@ -1,4 +1,4 @@
-import { Danmaku } from '@/types/Danmaku'
+import { Danmaku } from '../types/Danmaku'
 
 /**
  * 插件约束类

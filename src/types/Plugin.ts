@@ -1,5 +1,5 @@
-import KoePlugin from '@/class/KoePlugin'
-import { Danmaku } from '@/types/Danmaku'
+import KoePlugin from '../class/KoePlugin'
+import { Danmaku } from './Danmaku'
 
 /**
  * 插件接口
