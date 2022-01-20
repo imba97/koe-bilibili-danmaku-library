@@ -1,0 +1,22 @@
+{
+  "name": "koe-bilibili-danmaku-library",
+  "version": "0.0.1",
+  "description": "koe-bilibili-danmaku library",
+  "main": "dist/index.js",
+  "scripts": {
+    "dev": "tsc -w",
+    "build": "tsc"
+  },
+  "keywords": [
+    "koe-bilibili-danmaku-library",
+    "koe-bilibili-danmaku"
+  ],
+  "author": "imba97",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^4.5.4"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.10"
+  }
+}
