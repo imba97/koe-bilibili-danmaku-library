@@ -1,4 +1,10 @@
+/**
+ * 弹幕信息
+ */
 export interface Danmaku {
+  /**
+   * 唯一 ID
+   */
   id: string
 
   /**

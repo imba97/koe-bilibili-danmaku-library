@@ -1,3 +1,6 @@
+/**
+ * 弹幕姬事件类型
+ */
 export enum DanmakuEventType {
   /**
    * 接收了到弹幕
